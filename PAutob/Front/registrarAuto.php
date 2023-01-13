@@ -34,11 +34,11 @@
                     href="#">
                     <img src="img/usuarios.png" width="50" height="36" /> Clientes</a>
                     <div class="dropdown-menu bg-dark">
-                    <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="registrarCliente.php"><img src="jeansimgH/vela.png" width="24" height="24" /> 
+                    <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="registrarCliente.php"><img src="" width="24" height="24" /> 
                     Regstrar</a>
-                    <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="modificarCliente.php"><img src="jeansimgH/vela.png" width="24" height="24" /> 
+                    <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="modificarCliente.php"><img src="" width="24" height="24" /> 
                     Modificar</a>
-                    <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="eliminarCliente.php"><img src="jeansimgH/vela.png" width="24" height="24" /> 
+                    <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="eliminarCliente.php"><img src="" width="24" height="24" /> 
                     Eliminar</a>
                     </div>
                     </li>
@@ -47,11 +47,11 @@
                     href="#">
                     <img src="img/auto.png" width="50" height="38" /> Autos</a>
                     <div class="dropdown-menu bg-dark">
-                        <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="registrarAuto.php"><img src="jeansimgH/vela.png" width="24" height="24" /> 
+                        <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="registrarAuto.php"><img src="" width="24" height="24" /> 
                             Regstrar</a>
-                            <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="modificarAuto.php"><img src="jeansimgH/vela.png" width="24" height="24" /> 
+                            <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="modificarAuto.php"><img src="" width="24" height="24" /> 
                             Modificar</a>
-                            <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="eliminarAuto.php"><img src="jeansimgH/vela.png" width="24" height="24" /> 
+                            <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="eliminarAuto.php"><img src="" width="24" height="24" /> 
                             Eliminar</a>
                     </div>
                     </li>
@@ -60,7 +60,7 @@
                     href="#">
                     <img src="img/vauto.png" width="50" height="34" /> Ventas</a>
                     <div class="dropdown-menu bg-dark">
-                        <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="#"><img src="jeansimgH/vela.png" width="24" height="24" /> 
+                        <a class="dropdown-item bg-dark" style="color:rgb(255, 255, 255);" href="#"><img src="" width="24" height="24" /> 
                             Consultar Ventas</a>
                     </div>
                     </li>
